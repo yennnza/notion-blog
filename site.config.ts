@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yeon Ji Hyung',
-  // domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Yeon Ji Hyung',
 
   // open graph metadata (optional)
